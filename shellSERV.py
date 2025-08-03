@@ -7,7 +7,7 @@ import requests
 import re
 import io
 import contextlib
-
+import requests
 MEMORY_FILE = "memory.json"
 BOT_IDENTITY_FILE = "cipher.json"
 OLD_MEMORY_FILE = r"\New Folder\memory.json"
